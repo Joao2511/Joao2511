@@ -98,7 +98,3 @@
 - ⚽ **Golazo** — Sports scheduling platform with real-time MQTT communication (React Native + TypeScript)
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Joao2511&label=Profile%20views&color=4F8CF7&style=flat" alt="Profile views" />
-</p>
